@@ -30,7 +30,7 @@ Our scope is deliberately broad. Projects may include everyday utilities, educat
 
 You don't need to know how to programme to help. Start by sharing a real problem, reviewing an idea, testing usability or improving documentation. When proposing an idea, explain **who it helps**, **what problem it solves**, and **why existing options fall short**.
 
-**Current phase:** Establishing the community. Our founding charter has been approved, but our first software project, governance policies and release standards have **not yet been finalised**. No product is being represented as a production release.
+**Current phase:** Establishing the community. Our founding charter is approved and [FileGuide](https://github.com/Comutability/Community/blob/main/projects/001-fileguide/PROJECT-BRIEF.md) is selected as our first **discovery project**, subject to user validation. Governance policies and release standards remain in development. No software has been released.
 
 ---
 
