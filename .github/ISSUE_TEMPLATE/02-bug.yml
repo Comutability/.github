@@ -1,0 +1,40 @@
+name: "Bug or usability problem"
+description: "Report a reproducible non-security issue"
+title: "Bug: "
+body:
+  - type: markdown
+    attributes:
+      value: "For security vulnerabilities use private reporting, never this public form. Remove usernames, tokens and confidential paths from examples."
+  - type: input
+    id: product
+    attributes:
+      label: "Project and version"
+      placeholder: "Project name, release version or commit"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to reproduce"
+      description: "Use synthetic examples wherever possible."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected behaviour"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Actual behaviour"
+    validations:
+      required: true
+  - type: textarea
+    id: accessibility
+    attributes:
+      label: "Environment and accessibility impact"
+      description: "OS, browser, assistive technology (if relevant), and any limitations."
+    validations:
+      required: false
