@@ -1,37 +1,28 @@
 # Comutability
-
 ### Community + Usability
 **Built together. Open to everyone.**
 
-Comutability is an independent, community-led, AI-assisted open-source initiative. We bring people together to research, design, build and maintain **genuinely useful, accessible software** across different categories.
+Comutability is a human-led, AI-assisted, open-source software community. We research, design, develop and maintain practical tools across different categories with an emphasis on accessibility, user choice and community participation.
 
-We believe that helpful technology should be understandable, adaptable and available to everyone. AI can support the work, but **people make the decisions and remain accountable** for the software we release.
+## How we work
 
-## What we're here to do
+**ChatGPT** helps the founder and contributors develop ideas, research possibilities and produce clear specifications. **Claude** is the primary AI creative/engineering assistant for implementation, tests and design. **Base44** is used for selected existing apps as a builder/hosting system. **GitHub** holds the authoritative code, plans, issues, reviews and release evidence. **Only people approve and release software.**
 
-- **Solve real problems.** Start with people's needs, rather than technology for its own sake.
-- **Build in the open.** Use recognised open-source licences and make project decisions transparent.
-- **Welcome different contributions.** Ideas, testing, writing, design, translations, accessibility work and code all count.
-- **Respect users.** Value privacy, security, accessibility, choice and freedom from unnecessary lock-in.
-- **Maintain what we build.** Prefer a few dependable tools over lots of abandoned experiments.
+The software we release should be genuinely open-source. The models and proprietary services supplied by OpenAI, Anthropic and Base44 are not Comutability-owned source code. An application's use of a proprietary runtime AI provider will be disclosed.
 
-Our scope is deliberately broad. Projects may include everyday utilities, education and accessibility software, creative applications, AI and automation, privacy tools, infrastructure or developer tools.
+## Start here
 
-## Where to begin
+- [Approved Founding Charter v1.1](https://github.com/Comutability/Community/blob/main/FOUNDING-CHARTER.md)
+- [Unified Operating Handbook (proposed)](https://github.com/Comutability/Community/pull/5)
+- [Community projects and issues](https://github.com/Comutability/Community/issues)
+- [Governance proposal](https://github.com/Comutability/Community/pull/1)
+- [AI release policy proposal](https://github.com/Comutability/Community/pull/3)
+- [Existing Base44 project intake proposal](https://github.com/Comutability/Community/pull/4)
 
-| Destination | What you'll find |
-| --- | --- |
-| [Community repository](https://github.com/Comutability/Community) | Our public community headquarters and founding decisions |
-| [Approved Founding Charter v1.1](https://github.com/Comutability/Community/blob/main/FOUNDING-CHARTER.md) | Our mission, vision and ten founding principles |
-| [Community issues](https://github.com/Comutability/Community/issues) | A place to raise questions and propose ideas |
-| [Governance draft (PR #1)](https://github.com/Comutability/Community/pull/1) | Proposed participation, contribution and security guidelines, **not yet adopted** |
+## Contribute
 
-## Join in
+You do not need to be a programmer or a member of the GitHub organisation to contribute publicly. Share a problem, test with safe sample data, improve guides, propose designs, review accessibility or open a code PR. Write/admin privileges are invitation-only for selected human contributors, and limited to relevant repositories.
 
-You don't need to know how to programme to help. Start by sharing a real problem, reviewing an idea, testing usability or improving documentation. When proposing an idea, explain **who it helps**, **what problem it solves**, and **why existing options fall short**.
-
-**Current phase:** Establishing the community. Our founding charter is approved and [FileGuide](https://github.com/Comutability/Community/blob/main/projects/001-fileguide/PROJECT-BRIEF.md) is selected as our first **discovery project**, subject to user validation. Governance policies and release standards remain in development. No software has been released.
-
----
+**Current state:** Community structure is being established. FileGuide is in discovery; existing projects are intake candidates, not automatically audited or officially open-source releases. Governance and release standards are **not yet ratified**.
 
 *Built together. Open to everyone.*
