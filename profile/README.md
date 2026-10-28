@@ -26,3 +26,8 @@ You do not need to be a programmer or a member of the GitHub organisation to con
 **Current state:** Community structure is being established. FileGuide is in discovery; existing projects are intake candidates, not automatically audited or officially open-source releases. Governance and release standards are **not yet ratified**.
 
 *Built together. Open to everyone.*
+
+
+## AI-assisted development, with human accountability
+
+Our proposed [AI Agent Operating Rules, COM-AI-001](https://github.com/Comutability/Community/blob/proposal/unified-organisation-playbook-v0.1/policies/AI-AGENT-OPERATING-RULES.md) describe how ChatGPT, Claude, Base44 and human contributors should preserve a coherent GitHub project structure, reviewable development and safe hosting. These rules are **under review, not yet ratified**. Each project will need local configuration, restricted permissions and human reviewers to make them effective.
