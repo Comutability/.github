@@ -35,3 +35,7 @@ You don't need to know how to programme to help. Start by sharing a real problem
 ---
 
 *Built together. Open to everyone.*
+
+## A unified community workflow (in review)
+
+We plan to use **ChatGPT for ideas and research**, **Claude for creative implementation**, **Base44 for selected existing applications**, and **GitHub for source code, issues, reviews and release history**. People remain accountable for community governance, security and releases. Read our [unified operating handbook proposal](https://github.com/Comutability/Community/pull/5) and [organisation contributor templates proposal](https://github.com/Comutability/.github/pull/1). These are not yet ratified.
