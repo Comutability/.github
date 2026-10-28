@@ -1,0 +1,36 @@
+name: "New project idea"
+description: "Suggest a real problem for Comutability to research"
+title: "Idea: "
+body:
+  - type: markdown
+    attributes:
+      value: "Ideas are welcome. Proposal does not mean approval or a delivery commitment. Do not submit private data or credentials."
+  - type: textarea
+    id: problem
+    attributes:
+      label: "What problem needs solving?"
+      description: "Describe the real-world difficulty and who experiences it."
+      placeholder: "People struggle to..."
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "What have you already tried?"
+      description: "Mention existing open-source tools, and whether contributing upstream might help."
+    validations:
+      required: true
+  - type: textarea
+    id: useful
+    attributes:
+      label: "What would a small useful version do?"
+      description: "Avoid giant feature lists; include accessibility and privacy concerns."
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: "Risks, unknowns and dependencies"
+      description: "Mention proprietary model/API dependencies where relevant. Avoid secrets or sensitive personal examples."
+    validations:
+      required: false
