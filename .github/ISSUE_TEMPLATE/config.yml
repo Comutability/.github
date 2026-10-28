@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Community handbook and project status"
+    url: "https://github.com/Comutability/Community"
+    about: "Read our charter and current proposals before requesting changes."
